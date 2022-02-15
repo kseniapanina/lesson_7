@@ -1,0 +1,23 @@
+.container {
+    margin: 50px;
+}
+.list{
+    padding: 10px;
+    list-style-type: none;
+    border: 1px solid black;
+    margin: 3px;
+}
+.tick {
+    margin: 0 5px;
+}
+.header{
+    font: bold italic 110% serif; 
+    font-size: 35px;
+}
+.logo  {
+    fill:blue;
+    padding: 0 3px;
+    }
+.logo:hover {
+    fill:rgb(143, 182, 221);
+}
